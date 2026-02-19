@@ -8,7 +8,7 @@ I owned the accuracy and UX of documentation that was as volatile as [300+ SaaS,
 
 CData’s global teams gave me the technical, writing, and collaboration toolbox I needed in Tokyo to gather knowledge into a [new task-based documentation view](https://help.asteria.com/documentation/warp/en/current/flow/designer/index_guide.html) for Asteria’s Warp no-code data integration platform. In the [original English documentation](https://help.asteria.com/documentation/warp/en/1912/flow/designer/index_guide.html), users working their way through this graphical tool had to mentally assemble technical specifications into the steps they needed. I “translated” technical information into new overviews and modular guides that users could confidently jump across and combine into narratives that navigated their unique drag-and-drop workflows.
 
-## Writing and Editing Cross-Functionally
+## Facilitating Feedback Loops
 
 When you’re the only technical writer, you learn that everyone’s a writer. Solving other teams’ problems, giving and receiving feedback with respect, I built the relationships a technical writer relies on to gather and share knowledge.
 
